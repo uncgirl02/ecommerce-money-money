@@ -24,8 +24,6 @@
 
  First, create the schema from the MySQL shell.  Next, run "npm run seed" from the command line to seed the database. Run "node server" from the command line to start the application's server.  All routes can be tested using Insomnia.Please see walkthrough video below.  
 
-https://user-images.githubusercontent.com/96963668/161483154-7bc2f967-5f1e-4f2e-b1e1-f9a651dba12b.mp4
-
 
   ## License
   
