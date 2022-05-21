@@ -30,9 +30,11 @@ https://user-images.githubusercontent.com/96963668/166288668-fa886a77-d024-4940-
 
 ### Testing the Category Routes
 
+https://user-images.githubusercontent.com/96963668/169634431-88c458bf-efd7-4e2b-b41a-c1fb06b892f7.mp4
 
 ### Testing the Product Routes
 
+https://user-images.githubusercontent.com/96963668/169634439-4e955058-4edc-4df1-8a10-74c845c046e3.mp4
 
 ### Testing the Tag Routes
 
